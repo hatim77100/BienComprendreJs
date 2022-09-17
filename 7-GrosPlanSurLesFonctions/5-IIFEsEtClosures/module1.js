@@ -13,7 +13,7 @@
 
 //rendre une partie public de la fonction: on ajoute un objet pour cela
 
-const module1 = (function(){
+cons t module1 = (function(){
 
     var myPassword ="12345";
     
@@ -27,7 +27,6 @@ const module1 = (function(){
     return {
         getPassword : getPassword
     }
-
 })();
 
 

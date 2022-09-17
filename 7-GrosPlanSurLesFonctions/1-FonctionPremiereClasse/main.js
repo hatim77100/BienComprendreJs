@@ -21,3 +21,4 @@ function myFunction() {
 console.log(myFunction);
 console.log(myFunction());
 console.log(myFunction()(3));
+

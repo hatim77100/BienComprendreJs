@@ -1,5 +1,7 @@
-// var myPassword = "0000";
+// (function() {
+//     var myPassword = 00000
+// })();
 
 {
-    let myPassword = "0000"
+    let myPassword = "0000";
 }
